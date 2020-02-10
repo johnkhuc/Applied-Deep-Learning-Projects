@@ -18,7 +18,7 @@
     - A dense layer
 
 ## Highlights
-- `chime_output` chimes everytime someones says "activate"!
+- Download `chime_output.wav`. It chimes everytime someones says "activate"!
 ![prob](https://i.gyazo.com/aaa2c79bdeaaed53d66a46d43bfb4a01.png)
 
 ## Installation
