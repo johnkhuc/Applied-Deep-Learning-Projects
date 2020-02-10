@@ -3,6 +3,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Download Pretrained Models](#download-pretrained-models)
 - [Highlights](#highlights)
 - [Installation](#installation)
 - [Usage - Running Jupyter notebook](#usage---running-jupyter-notebook)
@@ -12,6 +13,12 @@
 ## Overview
 - Implement the neural style transfer algorithm 
 - Generate novel artistic images using the algorithm 
+
+# Download Pretrained Models
+- I used `imagenet-vgg-verydeep-16` and `imagenet-vgg-verydeep-19`. 
+- Both collectively about ~1 GB.
+- [Link](https://drive.google.com/file/d/1pBOTqdt-aUlTNpFmoxBBMu9LnIIPnmVO/view?usp=sharing) to download.
+	- After downloading, put it in the `pretrained-model/` folder.
 
 ## Highlights
 ![output1](https://i.gyazo.com/61f020556532e5ed940709815918073f.png)
