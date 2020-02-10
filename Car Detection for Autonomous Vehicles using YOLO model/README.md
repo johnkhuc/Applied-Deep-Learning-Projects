@@ -14,7 +14,7 @@
 - Deal with bounding boxes
 
 ## Highlights
-![example](https://gyazo.com/28159ac4e4671ae9e792e1c9ce2a38c0)
+![example1](https://i.gyazo.com/28159ac4e4671ae9e792e1c9ce2a38c0.png)
 
 ## Installation
 The Jupyter notebook is a web-based notebook environment for interactive computing. 
