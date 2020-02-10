@@ -18,7 +18,7 @@
 - I used `imagenet-vgg-verydeep-16` and `imagenet-vgg-verydeep-19`. 
 - Both collectively about ~1 GB.
 - [Link](https://drive.google.com/file/d/1pBOTqdt-aUlTNpFmoxBBMu9LnIIPnmVO/view?usp=sharing) to download.
-	- After downloading, put it in the `pretrained-model/` folder.
+	- After downloading, create a folder called `pretrained-model` and place the pretrained models inside. 
 
 ## Highlights
 ![output1](https://i.gyazo.com/61f020556532e5ed940709815918073f.png)
